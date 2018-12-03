@@ -1,0 +1,18 @@
+/* //META { "name": "Rainbow_Kitten", "description": "Rainbow kittens desu ! ;3 made with square's help", "author": "アザグエン", "version": "0.1.2" } *// {}
+
+/* App Background */
+	/* settings */
+:root {
+  --Box-border: 2px dashed;
+  --Box-AB-0:, 0.5;
+  --Box-AB-1:, 1;
+  --Box-AB-2:, 1;
+  --Box-AC-0:, 0.1;
+  --Box-AC-1:, 0.5;
+  --Box-AC-2:, 0.7;
+	/* Border radiuses */
+		/* 0 = Thin 1 = larger 2 = Largest */
+  --Radius-0:3px;
+  --Radius-1:6px;
+  --Radius-2:35px;
+}
